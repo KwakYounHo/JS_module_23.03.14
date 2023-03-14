@@ -1,0 +1,25 @@
+{
+  "name": "js_module_23.03.14",
+  "version": "1.0.0",
+  "description": "\"연습이야\"",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KwakYounHo/JS_module_23.03.14.git"
+  },
+  "keywords": [
+    "\"연습\""
+  ],
+  "author": "\"나\"",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KwakYounHo/JS_module_23.03.14/issues"
+  },
+  "homepage": "https://github.com/KwakYounHo/JS_module_23.03.14#readme",
+  "dependencies": {
+    "pokemon": "^2.3.4"
+  }
+}
